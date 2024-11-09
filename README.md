@@ -1,1 +1,9 @@
-# program31-for-number-
+#include <stdio.h>
+int main()
+{
+int a;
+for(a=0;a<=10;a++)
+{
+printf("%d",a);
+}
+}
